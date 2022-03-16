@@ -1,1 +1,2 @@
+aliens version 2
 this a file inside a folder Story that is going to be version controlled with GIT
